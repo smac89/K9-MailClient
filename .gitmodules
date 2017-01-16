@@ -1,0 +1,3 @@
+[submodule "k-9"]
+	path = k-9
+	url = https://github.com/k9mail/k-9.git
